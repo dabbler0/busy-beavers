@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Community for MIT during COVID-19
 
-You can use the [editor on GitHub](https://github.com/dabbler0/busy-beavers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Discord
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're creating a campus-wide Discord server to serve as a central hub for social interaction while off-campus and to be a launching-off point for other events. Please join, even if you're not usually into social media!
 
-### Markdown
+  1. Visit https://discord.gg/a6SHCkC and create a Discord account if you don't have one.
+  2. Email [busy-beavers@mit.edu](mailto:busy-beavers@mit.edu) from your MIT email address with your Discord username and ask to join.
+  3. We'll approve you as soon as possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Events Calendar
 
-```markdown
-Syntax highlighted code block
+We're creating a calendar for digital events to happen at MIT. Add the following Google calendar.
 
-# Header 1
-## Header 2
-### Header 3
+Digital events calendar: https://calendar.google.com/calendar?cid=c2M4amFsdHJjNGNmOTA0OGttbnRvMXVjdXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.
 
-- Bulleted
-- List
+If you are a club with an idea for a digital event, fill out the following Google form and we'll add you to the calendar.
 
-1. Numbered
-2. List
+Event registration form: https://forms.gle/MjTPtJS2fRkyb2u57.
 
-**Bold** and _Italic_ and `Code` text
+## Spring Break Events
 
-[Link](url) and ![Image](src)
-```
+We're in the process of organizing some events over Spring break to kick things off. Check back regularly as we announce more plans!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Games Night: Friday, March 20th
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dabbler0/busy-beavers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Play Scrabble, Uno, agar.io, Cards Against Humanity, and other games with absent friends! Details to be announced.
